@@ -8,7 +8,9 @@
 <a href="https://github.com/vaamonde/vaamonde/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vaamonde/vaamonde?color=2b9348"></a>
 <a href="https://github.com/vaamonde/vaamonde/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/vaamonde?color=2b9348" alt="License Badge"/></a>
 </div>
+
 ##
+
 <div align="center">
   <a href="https://github.com/jardeljusto">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jardeljusto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
