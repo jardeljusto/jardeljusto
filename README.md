@@ -1,6 +1,6 @@
 ## Eu sou Jardel Justo, criador de conteúdo de programação e tecnologia! 🖥️ 🤓 🐧 🇧🇷
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vaamonde&label=Profile%20views&color=0e75b6&style=flat" alt="jardeljusto"/>
+<img src="https://komarev.com/ghpvc/?username=jardeljusto&label=Profile%20views&color=0e75b6&style=flat" alt="jardeljusto"/>
 <a href="https://github.com/vaamonde/vaamonde/stargazers"><img src="https://img.shields.io/github/stars/vaamonde/vaamonde" alt="Stars Badge"/></a>
 <a href="https://github.com/vaamonde/vaamonde/network/members"><img src="https://img.shields.io/github/forks/vaamonde/vaamonde" alt="Forks Badge"/></a>
 <a href="https://github.com/vaamonde/vaamonde/pulls"><img src="https://img.shields.io/github/issues-pr/vaamonde/vaamonde" alt="Pull Requests Badge"/></a>
