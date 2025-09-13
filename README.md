@@ -1,10 +1,4 @@
 ## Eu sou Jardel Justo, criador de conteúdo de programação e tecnologia! 🖥️ 🤓 🐧 🇧🇷
-<div align="center">
-  <a href="https://github.com/jardeljusto">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jardeljusto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeljusto&layout=compact&langs_count=7&theme=transparent"/>
-    </div>
-
 ##
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vaamonde&label=Profile%20views&color=0e75b6&style=flat" alt="vaamonde"/>
@@ -15,6 +9,16 @@
 <a href="https://github.com/vaamonde/vaamonde/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vaamonde/vaamonde?color=2b9348"></a>
 <a href="https://github.com/vaamonde/vaamonde/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/vaamonde?color=2b9348" alt="License Badge"/></a>
 </div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/jardeljusto">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jardeljusto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeljusto&layout=compact&langs_count=7&theme=transparent"/>
+    </div>
+
+
 
  ## 
 <div style="display: inline_block"><br>
