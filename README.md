@@ -5,6 +5,17 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeljusto&layout=compact&langs_count=7&theme=transparent"/>
     </div>
 
+##
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vaamonde&label=Profile%20views&color=0e75b6&style=flat" alt="vaamonde"/>
+<a href="https://github.com/vaamonde/vaamonde/stargazers"><img src="https://img.shields.io/github/stars/vaamonde/vaamonde" alt="Stars Badge"/></a>
+<a href="https://github.com/vaamonde/vaamonde/network/members"><img src="https://img.shields.io/github/forks/vaamonde/vaamonde" alt="Forks Badge"/></a>
+<a href="https://github.com/vaamonde/vaamonde/pulls"><img src="https://img.shields.io/github/issues-pr/vaamonde/vaamonde" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/vaamonde/vaamonde/issues"><img src="https://img.shields.io/github/issues/vaamonde/vaamonde" alt="Issues Badge"/></a>
+<a href="https://github.com/vaamonde/vaamonde/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vaamonde/vaamonde?color=2b9348"></a>
+<a href="https://github.com/vaamonde/vaamonde/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/vaamonde?color=2b9348" alt="License Badge"/></a>
+</div>
+
  ## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Justo-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
