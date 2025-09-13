@@ -1,5 +1,4 @@
 ## Eu sou Jardel Justo, criador de conteúdo de programação e tecnologia! 🖥️ 🤓 🐧 🇧🇷
-##
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vaamonde&label=Profile%20views&color=0e75b6&style=flat" alt="vaamonde"/>
 <a href="https://github.com/vaamonde/vaamonde/stargazers"><img src="https://img.shields.io/github/stars/vaamonde/vaamonde" alt="Stars Badge"/></a>
