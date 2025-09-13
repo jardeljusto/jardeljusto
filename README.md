@@ -3,10 +3,10 @@
 <img src="https://komarev.com/ghpvc/?username=jardeljusto&label=Profile%20views&color=0e75b6&style=flat" alt="jardeljusto"/>
 <a href="https://github.com/jardeljusto/jardeljusto/stargazers"><img src="https://img.shields.io/github/stars/vaamonde/vaamonde" alt="Stars Badge"/></a>
 <a href="https://github.com/jardeljusto/jardeljusto/network/members"><img src="https://img.shields.io/github/forks/vaamonde/vaamonde" alt="Forks Badge"/></a>
-<a href="https://github.com/vaamonde/vaamonde/pulls"><img src="https://img.shields.io/github/issues-pr/vaamonde/vaamonde" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/vaamonde/vaamonde/issues"><img src="https://img.shields.io/github/issues/vaamonde/vaamonde" alt="Issues Badge"/></a>
-<a href="https://github.com/vaamonde/vaamonde/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vaamonde/vaamonde?color=2b9348"></a>
-<a href="https://github.com/vaamonde/vaamonde/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/vaamonde?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/jardeljusto/jardeljusto/pulls"><img src="https://img.shields.io/github/issues-pr/vaamonde/vaamonde" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/jardeljusto/jardeljusto/issues"><img src="https://img.shields.io/github/issues/vaamonde/vaamonde" alt="Issues Badge"/></a>
+<a href="https://github.com/jardeljusto/jardeljusto/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vaamonde/vaamonde?color=2b9348"></a>
+<a href="https://github.com/jardeljusto/jardeljusto/blob/main/LICENSE"><img src="https://img.shields.io/github/license/vaamonde/vaamonde?color=2b9348" alt="License Badge"/></a>
 </div>
 
 ##
